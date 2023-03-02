@@ -98,4 +98,5 @@ let update = (x) => {
     let item = document.getElementById(`${x.id}`)
 
     item.innerHTML = x.item
+    
 }
